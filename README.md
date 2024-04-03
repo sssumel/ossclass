@@ -1,0 +1,2 @@
+# ossclass
+oss class test
